@@ -1,0 +1,11 @@
+{
+
+      "Salon" : [
+        {"name":"leticia coiffure","image":"../img/leticia.png"},
+        {"name":"chez mon coiffeur","image":"../img/chezmoncoffeur.jpg"},
+        {"name":"kaiser coiffure","image":"../img/kaysar.png"},
+        {"name":"kevin cross","image":"../img/kevin.png"},
+        {"name":"rose","image":"../img/rose.jpg"},
+
+      ]
+     }

@@ -1,0 +1,37 @@
+{
+
+      "leticiaCoiffure" : [
+        {"name":"jhon",},
+        {"name":"ali",},
+        {"name":"wifek",},
+        {"name":"cross",},
+        {"name":"piere",},
+
+
+      ],
+
+      "chezMonCoi" : [
+        {"name":"skander",},
+        {"name":"xissem",},
+        {"name":"toni",},
+        {"name":"ribery",},
+        {"name":"bale",},
+
+      ],
+      "kevin" : [
+        {"name":"med",},
+        {"name":"asma",},
+        {"name":"wifek",},
+        {"name":"cross",},
+        {"name":"asùa",},
+
+      ],
+      "Rose" : [
+        {"name":"djo",},
+        {"name":"hatab",},
+        {"name":"wifek",},
+        {"name":"cross",},
+        {"name":"piere",},
+
+      ]
+     }
